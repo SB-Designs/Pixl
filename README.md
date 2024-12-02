@@ -1,5 +1,6 @@
 <h1>Welcome to Pixl!</h1>
 <h3>Free home screen and desktop backgrounds for all.</h3>
+<h2><a href="https://pixl.sbdesigns.pages.dev">Website</a></h2>
 
 <h3>How to Use</h3>
 On here, is a selection of home screen and desktop backgrounds, which you can use for free! Just simply select a folder, and scroll through to find a background you like, which you can then download.
