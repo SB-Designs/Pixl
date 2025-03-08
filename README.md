@@ -10,5 +10,5 @@ Backgrounds <b>are permitted</b> to be used for free, but are <u><b>not</b></u> 
 If not used as a home screen or desktop background (e.g. on a website), you <u><b>must</b></u> give credit to <a href="https://github.com/SB-Designs">SB-Designs</a> (me).
 
 <h3>Credits and Information</h3>
-All backgrounds are made in the graphic designs websites <a href="https://figma.com">Figma</a> or <a href="https://canva.com">Canva</a>, 100% by me.<br><br>
-All Backgrounds and Website © SB Designs 2024
+All backgrounds are made in the graphic designs websites <a href="https://figma.com">Figma</a> or <a href="https://canva.com">Canva</a>.
+All Backgrounds and Website © SB Designs 2025
