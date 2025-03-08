@@ -7,8 +7,6 @@ On here, is a selection of home screen and desktop backgrounds, which you can us
 
 <h3>Usage of Background</h3>
 Backgrounds <b>are permitted</b> to be used for free, but are <u><b>not</b></u> in any circumstances to be sold on, copied or claimed as your own. 
-If not used as a home screen or desktop background (e.g. on a website), you <u><b>must</b></u> give credit to <a href="https://github.com/SB-Designs">SB-Designs</a> (me).
-
 <h3>Credits and Information</h3>
 All backgrounds are made in the graphic designs websites <a href="https://figma.com">Figma</a> or <a href="https://canva.com">Canva</a>.
 All Backgrounds and Website © SB Designs 2025
